@@ -1,0 +1,8 @@
+﻿{
+	"sc_host"		 : "sc-01.coinigy.com",
+	"sc_secure"		 : "true",
+    "sc_port"        : "443",
+    "dev_mode": true,
+    "show_output": true
+
+}
